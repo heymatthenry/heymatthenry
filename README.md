@@ -12,5 +12,5 @@ I'm a front-end dev, tech lead, and sometime lawyer.
 ## Stuff I'm proud of
 
 - I'm super proud of everything the USWDS team does every day.
-- I briefly worked on the [IRS Direct File](https://www.irs.gov/filing/irs-direct-file-for-free) project with some of the greatest humans working in tech. My part was tiny; mostly writing tests for the front-end knotty tex logic implementation (React/TypeScript)
-- I helped launch the [Federal Audit Clearinghouse](https://www.fac.gov/) app. This includes the [static eleventy frontend](https://github.com/GSA-TTS/FAC-Frontend), that we hoped would work as a JAMstack-style client to the Django API, and then the port of all of that code over to templates in the [Django monolith](https://github.com/GSA-TTS/FAC) when it turns out the client app didn't actually work the way we needed it to 😅.
+- I briefly worked on the [IRS Direct File](https://github.com/IRS-Public/direct-file) project with some of the greatest humans working in tech. My part was tiny; mostly writing tests for the front-end knotty tex logic implementation (React/TypeScript)
+- I helped launch the [Federal Audit Clearinghouse](https://www.fac.gov/) app. This includes the [static eleventy frontend](https://github.com/GSA-TTS/FAC-Frontend), that we hoped would work as a JAMstack-style client to the Django API, and then the port of all of that code over to templates in the [Django monolith](https://github.com/GSA-TTS/FAC) when it turned out the client app didn't actually work the way we needed it to 😅.
